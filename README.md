@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem-vindo ao meu perfil 🪐⭐
 
-<!--
-**enzxso/enzxso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Henzo 😼
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Me aperfeiçoando em programação 
+- Meu espaço para compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato 📪
+
+henzo.pontes@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/umm-gif-11714145596342171098)
