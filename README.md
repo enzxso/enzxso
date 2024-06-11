@@ -10,5 +10,4 @@ Me chamo Henzo 😼
 
 henzo.pontes@escola.pr.gov.br
 
-
- ![](https://tenor.com/n7u4Es16GRW.gif)
+![](https://tenor.com/pt-BR/view/ariana-grande-reface-ariana-grande-gif-20557744)
