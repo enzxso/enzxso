@@ -2,7 +2,7 @@
 
 Me chamo Henzo 😼
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Me aperfeiçoando em programação 
 - Meu espaço para compartilhar meus projetos
 
@@ -10,4 +10,5 @@ Me chamo Henzo 😼
 
 henzo.pontes@escola.pr.gov.br
 
-![](https://tenor.com/n7u4Es16GRW.gif)
+
+ ![](https://tenor.com/n7u4Es16GRW.gif)
